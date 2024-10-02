@@ -2,6 +2,8 @@
 
 This Python program calculates the Euclidean distances between points in 2D space. It demonstrates the use of functions and loops to find the distance between all point pairs, and then determines the minimum distance among them.
 
+![image](https://github.com/user-attachments/assets/c0101b0e-d6c6-4e2e-ae33-1282b407a8df)
+
 ## Features
 
 - Define points in 2D space using a list of tuples.
